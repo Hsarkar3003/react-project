@@ -1,0 +1,74 @@
+main{
+    display: flex;
+    height: 850px;
+   margin-left: 10px;
+   align-items: center;
+   margin-right: 10px;
+   
+  }
+  
+  
+  main h1{
+   font-weight: 800;
+   font-size: 108px;
+   width: 850px;
+   line-height: 102px;
+  }
+  main p{
+    font-weight: 600;
+    color: rgb(73, 139, 139);
+    width: 850px;
+   }
+   .buttons{
+    display: flex;
+    gap: 40px;
+    height: 50p;
+    
+    height: 100px;
+    border-radius: 5px;
+
+
+   }
+   .button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    height: 55px;
+    width: 120px;
+    font-weight: 500;
+   }
+   .button2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    height: 55px;
+    width: 120px;
+    background: gray;
+    font-weight: 500;
+   }
+   .logo{
+   
+    margin-top: 20px;
+    
+   }
+   .amezone{
+    height: 35px;
+
+    
+   }
+   .flipcart{
+    height: 35px;
+    margin-left: 15px;
+
+   }
+   .hero-pic{
+    
+    height: 400px;
+    display: flex;
+    margin-left: 170px;
+
+   }
+   
+  
